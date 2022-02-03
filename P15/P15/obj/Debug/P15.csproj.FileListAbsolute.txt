@@ -1,0 +1,6 @@
+C:\Users\Gion\source\repos\codemarked\EX_MAP_II_I_2022\P15\P15\bin\Debug\P15.exe.config
+C:\Users\Gion\source\repos\codemarked\EX_MAP_II_I_2022\P15\P15\bin\Debug\P15.exe
+C:\Users\Gion\source\repos\codemarked\EX_MAP_II_I_2022\P15\P15\bin\Debug\P15.pdb
+C:\Users\Gion\source\repos\codemarked\EX_MAP_II_I_2022\P15\P15\obj\Debug\P15.csproj.CoreCompileInputs.cache
+C:\Users\Gion\source\repos\codemarked\EX_MAP_II_I_2022\P15\P15\obj\Debug\P15.exe
+C:\Users\Gion\source\repos\codemarked\EX_MAP_II_I_2022\P15\P15\obj\Debug\P15.pdb

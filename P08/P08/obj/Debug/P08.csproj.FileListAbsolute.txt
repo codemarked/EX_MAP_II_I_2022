@@ -1,0 +1,6 @@
+C:\Users\Gion\Source\Repos\codemarked\EX_MAP_II_I_2022\P08\P08\bin\Debug\P08.exe.config
+C:\Users\Gion\Source\Repos\codemarked\EX_MAP_II_I_2022\P08\P08\bin\Debug\P08.exe
+C:\Users\Gion\Source\Repos\codemarked\EX_MAP_II_I_2022\P08\P08\bin\Debug\P08.pdb
+C:\Users\Gion\Source\Repos\codemarked\EX_MAP_II_I_2022\P08\P08\obj\Debug\P08.csproj.CoreCompileInputs.cache
+C:\Users\Gion\Source\Repos\codemarked\EX_MAP_II_I_2022\P08\P08\obj\Debug\P08.exe
+C:\Users\Gion\Source\Repos\codemarked\EX_MAP_II_I_2022\P08\P08\obj\Debug\P08.pdb

@@ -1,0 +1,7 @@
+C:\Users\Gion\source\repos\codemarked\EX_MAP_II_I_2022\P12\P12\bin\Debug\P12.exe.config
+C:\Users\Gion\source\repos\codemarked\EX_MAP_II_I_2022\P12\P12\bin\Debug\P12.exe
+C:\Users\Gion\source\repos\codemarked\EX_MAP_II_I_2022\P12\P12\bin\Debug\P12.pdb
+C:\Users\Gion\source\repos\codemarked\EX_MAP_II_I_2022\P12\P12\obj\Debug\P12.csproj.AssemblyReference.cache
+C:\Users\Gion\source\repos\codemarked\EX_MAP_II_I_2022\P12\P12\obj\Debug\P12.csproj.CoreCompileInputs.cache
+C:\Users\Gion\source\repos\codemarked\EX_MAP_II_I_2022\P12\P12\obj\Debug\P12.exe
+C:\Users\Gion\source\repos\codemarked\EX_MAP_II_I_2022\P12\P12\obj\Debug\P12.pdb
